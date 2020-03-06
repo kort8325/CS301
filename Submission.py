@@ -267,6 +267,25 @@ llist.Listprint() """
 
 ###########################################
 #                                         #
+#     Question #3                         #
+#                                         #
+###########################################
+"""
+I don’t think that python’s internal list systems are a linked list of any sort.
+If the implemented list methods were made for linked lists sort functions or
+index function would take longer than they actually do in python, as we see by
+the methods in the code above.  There are advantages to using linked lists, like
+wanting to go through each element of a linked list or wanting to loop back
+through them. However there are also negatives that come with database work,
+or when the list gets too long.  
+
+"""
+
+
+
+
+###########################################
+#                                         #
 #     Stack                               #
 #                                         #
 ###########################################
